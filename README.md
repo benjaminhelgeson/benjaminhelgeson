@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benjaminhelgeson
-- 👀 I’m interested in travel, blogging, bouldering, and improving web development skills
-- 🌱 I’m currently learning react, gatsby, node.js, python
+- 👀 I’m interested in travel, photography, bouldering, and improving web development skills
+- 🌱 I’m currently learning node.js, python, and .Net
 
 <!---
 benjaminhelgeson/benjaminhelgeson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
